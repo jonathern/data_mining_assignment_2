@@ -1,2 +1,5 @@
 # python environments
 .venv/
+
+# CSV files
+data/credit card fraud detection/creditcard.csv
