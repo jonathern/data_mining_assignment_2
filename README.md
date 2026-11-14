@@ -83,10 +83,10 @@ Due to file size limits, the datasets are not committed directly to this reposit
 
 ## Setup and Installation
 
-To reproduce the analysis, you will need **Python 3.8+** and the following libraries. You can install them via `pip`:
+To reproduce the analysis, you will need **Python 3.8+** and the libraries in the `packages.txt`. You can install them via `pip`:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn scipy jupyter
+pip install -r requirements.txt
 ```
 
 Alternatively, if you use **Conda**:
